@@ -10,6 +10,10 @@
     font-weight: bold;
 margin: -2px
 }
+.buttons .eq{
+    background-color: rgb(103, 114, 108);
+    width: 90%;
+}
 #display{
     width: 75%;
     height: 25px;
